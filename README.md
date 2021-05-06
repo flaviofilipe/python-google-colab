@@ -24,3 +24,17 @@ Para abrir um arquivo já importado basta acessar no menu **Arquivo**, **Abrir N
 
 ### Abrindo via link do Github :star2:
 Uma forma mais rápida de acessar é passando o link deste repositório em **Arquivo**, **Abrir Notebook** e acessar a aba **Github**. Assim poderá escolher qual arquivo deseja abrir.
+
+# Dicas de estudo
+
+## Sites
+- [Data Hackers](https://datahackers.com.br/)
+- [Alura](https://www.alura.com.br/)
+- [Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
+
+## Youtube
+- [Programação Dinânmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)
+- [Eduardo Mendes](https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw)
+- [Code Show](https://www.youtube.com/channel/UCMre98RDRijOX_fvG1gnsYg)
+- [Régis do Python](https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ)
+- [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
